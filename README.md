@@ -12,9 +12,9 @@
 
 |  |  |
 |--|--|
-| NIM | **contoh 123** |
-| Nama Lengkap | **contoh nama abc** |
-| Kelas | TI-3x |
+| NIM | **1941720048** |
+| Nama Lengkap | **Devi Puspitasari** |
+| Kelas | TI-3E |
 
 
 ## Struktur Folder
